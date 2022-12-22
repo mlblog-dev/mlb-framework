@@ -99,7 +99,7 @@
         <repository>
             <id>github</id>
             <name>GitHub mlblog-dev Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/mlblog-dev</url>
+            <url>https://maven.pkg.github.com/mlblog-dev/mlb-framework</url>
         </repository>
     </repositories>
 
